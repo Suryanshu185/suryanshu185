@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suryanshu Gupta</h1>
 <h3 align="center">I am a computer science student at Thapar University (3rd Year)</h3>
 
+<img src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg" alt="code baba" width="250" height="250">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanshu185&label=Profile%20views&color=0e75b6&style=flat" alt="suryanshu185" /> </p>
 
 - 🔭 I’m currently working on **honing my Devops skills**
