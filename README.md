@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **WebDev/DevOps projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Suryanshu185](https://github.com/Suryanshu185)
+- 👨‍💻 All of my projects are available at [https://github.com/Suryanshu185](https://github.com/Suryanshu185) and https://replit.com/@SuryanshuGupta
 
 - 📫 How to reach me **gupta.suryanshu185@gmail.com**
 
