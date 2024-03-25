@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryanshu Gupta</h1>
-<h3 align="center">I am a computer science student at Thapar University (3rd Year)</h3>
+<h3 align="center">I am a computer science student with Keen Interest In DevOps And Web Development</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanshu185&label=Profile%20views&color=0e75b6&style=flat" alt="suryanshu185" /> </p>
