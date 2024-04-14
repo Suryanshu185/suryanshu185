@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **honing my Devops skills**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently Working as a **DevOps Engineer And Project Manager @Rivet**
 
 - 👯 I’m looking to collaborate on **WebDev/DevOps projects**
 
