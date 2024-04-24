@@ -25,4 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryanshu185&show_icons=true&locale=en&layout=compact" alt="suryanshu185" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryanshu185&show_icons=true&locale=en" alt="suryanshu185" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y&show_icons=true&locale=en" alt="y" /></p>
+
