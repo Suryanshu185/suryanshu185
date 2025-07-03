@@ -1,3 +1,40 @@
+## String Cleaner Function
+
+This repository includes a Python function `remove_consecutive_chars` that removes characters appearing continuously with a count of 3 or more.
+
+### Usage
+
+```python
+from string_cleaner import remove_consecutive_chars
+
+# Example usage
+result = remove_consecutive_chars("@@%%%%%##^^^#$")
+print(result)  # Output: "@@###$"
+```
+
+### How it works
+
+The function:
+1. Parses the input string character by character
+2. Keeps track of consecutive character counts
+3. Only includes characters in the result if their continuous count is less than 3
+4. Returns the cleaned string
+
+### Examples
+
+- `"@@%%%%%##^^^#$"` → `"@@###$"`
+  - `@@` stays (2 consecutive @s)
+  - `%%%%%` removed (5 consecutive %s)
+  - `##` stays (2 consecutive #s)
+  - `^^^` removed (3 consecutive ^s)
+  - `#$` stays (1 # and 1 $)
+
+- `"aaa"` → `""` (removes 3 consecutive a's)
+- `"aa"` → `"aa"` (keeps 2 consecutive a's)
+- `"abccc"` → `"ab"` (keeps different chars, removes 3 consecutive c's)
+
+---
+
 <h1 align="center">Hi 👋, I'm Suryanshu Gupta</h1>
 <h3 align="center">I am a computer science student with Keen Interest In DevOps And Web Development</h3>
 
