@@ -10,7 +10,9 @@
 - 💼 Worked as a Technical Consultant Engineer             @ [Aarna.ml](https://www.aarna.ml/)  (Backend + DevOps)
 - 💼 Worked as a Founding Backend Engineer                 @ [Carmony](https://www.linkedin.com/company/carmonyinc/about/) (Backend + DevOps)
 - 💼 Worked as a Cloud Operations intern                   @ [innovilla](https://www.linkedin.com/company/innovilla-private-limited/about/) (AWS)
-- 👯 Looking to collaborate on **DevOps projects**  
+- 🌱 I’m currently learning and working on
+     - Golang
+     - DevOps
 - 💻 Check out my work at [github.com/Suryanshu185](https://github.com/Suryanshu185)  
 - 📫 Reach me at **gupta.suryanshu185@gmail.com**
 
