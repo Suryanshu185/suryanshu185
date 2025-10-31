@@ -5,12 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=suryanshu185&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 Currently working on **honing my DevOps skills**  
-- 💼 Worked as a Founding Software Development Engineer @ [Kluisz.ai](https://kluisz.ai) (Backend + DevOps)
-- 💼 Worked as a Software Development Engineer intern   @ [Aarna.ml](https://www.aarna.ml/)  (Backend + DevOps)
-- 💼 Worked as a Technical Consultant Engineer          @ [Aarna.ml](https://www.aarna.ml/)  (Backend + DevOps)
-- 💼 Worked as a Founding Backend Engineer              @ [Carmony](https://www.linkedin.com/company/carmonyinc/about/) (Backend + DevOps)
-- 💼 Worked as a Cloud Operations intern                @ [innovilla](https://www.linkedin.com/company/innovilla-private-limited/about/) (AWS)
+- 🔭 Currently working as a Founding Software Development Engineer @ [Kluisz.ai](https://kluisz.ai) (Backend + DevOps)
+- 💼 Worked as a Software Development Engineer intern      @ [Aarna.ml](https://www.aarna.ml/)  (Backend + DevOps)
+- 💼 Worked as a Technical Consultant Engineer             @ [Aarna.ml](https://www.aarna.ml/)  (Backend + DevOps)
+- 💼 Worked as a Founding Backend Engineer                 @ [Carmony](https://www.linkedin.com/company/carmonyinc/about/) (Backend + DevOps)
+- 💼 Worked as a Cloud Operations intern                   @ [innovilla](https://www.linkedin.com/company/innovilla-private-limited/about/) (AWS)
 - https://www.linkedin.com/company/carmonyinc/about/
 - 👯 Looking to collaborate on **DevOps projects**  
 - 💻 Check out my work at [github.com/Suryanshu185](https://github.com/Suryanshu185)  
