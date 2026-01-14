@@ -86,30 +86,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=suryanshu185&show_icons=true&theme=dark"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=suryanshu185&theme=dark"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshu185&layout=compact&theme=dark"
-    alt="Top Languages"
-  />
-</p>
-
-
 ### 📈 Contribution Graph
 
 [![Suryanshu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suryanshu185&theme=vue-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
