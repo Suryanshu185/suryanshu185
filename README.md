@@ -89,16 +89,26 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryanshu185&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="suryanshu185's GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=suryanshu185&show_icons=true&theme=dark"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshu185&theme=vue-dark&hide_border=true" alt="suryanshu185's GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=suryanshu185&theme=dark"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshu185&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshu185&layout=compact&theme=dark"
+    alt="Top Languages"
+  />
 </p>
+
 
 ### 📈 Contribution Graph
 
