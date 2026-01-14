@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning and working on
      - Golang
      - DevOps
+     - Typescript
 - 💻 Check out my work at [github.com/Suryanshu185](https://github.com/Suryanshu185)  
 - 📫 Reach me at **gupta.suryanshu185@gmail.com**
 
