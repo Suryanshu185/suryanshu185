@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=suryanshu185&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 Currently working as a Founding Software Development Engineer @ [Kluisz.ai](https://kluisz.ai) (Backend + DevOps)
+- 🔭 Currently working as a Founding Software Development Engineer @ [NAVA](https://nava.com/) (Founding Engineer)
 - 💼 Worked as a Software Development Engineer intern      @ [Aarna.ml](https://www.aarna.ml/)  (Backend + DevOps)
 - 💼 Worked as a Technical Consultant Engineer             @ [Aarna.ml](https://www.aarna.ml/)  (Backend + DevOps)
 - 💼 Worked as a Founding Backend Engineer                 @ [Carmony](https://www.linkedin.com/company/carmonyinc/about/) (Full-Stack + DevOps)
